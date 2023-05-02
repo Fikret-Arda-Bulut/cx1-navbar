@@ -1,2 +1,2 @@
-# es6-navbars
-Collection of navbars built using HTML, CSS and JavaScript
+# CX1-navbar
+HTML, CSS ve JavaScript kullanılarak oluşturulmuş gezinme çubukları koleksiyonu
